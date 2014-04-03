@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestServiceClient", "RestServiceClient\RestServiceClient.csproj", "{A106D65F-CD1F-429A-BFA6-531320CD6074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KryptonGridServiceHost", "KryptonGridServiceHost\KryptonGridServiceHost.csproj", "{3297EDE4-5058-4840-A483-1044D8779870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KryptonGridService", "KryptonGridService\KryptonGridService.csproj", "{61083E9A-AB64-4536-A9C2-A1CBA4683DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerLibrary", "ControllerLibrary\ControllerLibrary.csproj", "{042D8C25-6B50-4BB9-B798-A002C3D60D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A106D65F-CD1F-429A-BFA6-531320CD6074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A106D65F-CD1F-429A-BFA6-531320CD6074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A106D65F-CD1F-429A-BFA6-531320CD6074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A106D65F-CD1F-429A-BFA6-531320CD6074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3297EDE4-5058-4840-A483-1044D8779870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3297EDE4-5058-4840-A483-1044D8779870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3297EDE4-5058-4840-A483-1044D8779870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3297EDE4-5058-4840-A483-1044D8779870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61083E9A-AB64-4536-A9C2-A1CBA4683DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61083E9A-AB64-4536-A9C2-A1CBA4683DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61083E9A-AB64-4536-A9C2-A1CBA4683DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61083E9A-AB64-4536-A9C2-A1CBA4683DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042D8C25-6B50-4BB9-B798-A002C3D60D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042D8C25-6B50-4BB9-B798-A002C3D60D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042D8C25-6B50-4BB9-B798-A002C3D60D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042D8C25-6B50-4BB9-B798-A002C3D60D45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
